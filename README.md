@@ -1,4 +1,4 @@
-Module 8 Journal
+Module 8 Journal - 
 Throughout this course, I have gained a greater understanding of the importance of adopting a secure coding standard and not leaving security to the end. 
 Through the adoption of a secure coding standard, organizations can ensure that all security policies are defined, implemented, governed, and maintained over time. 
 Together these factors can help reduce the chance of security vulnerabilities and improve the response effectiveness and time when situations arise. 
